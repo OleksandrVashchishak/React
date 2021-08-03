@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin: 100px auto;
+  background: aqua;
+  padding: 20px;
+}
+.df{
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #000;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.item__remove-icon {
+  display: block;
+margin-left: 10px;
+  cursor: pointer;
+}
+
+.item__remove{
+  width: 40px;
+  position: relative;
+}
+
+.item__remove-icon:before,
+.item__remove-icon:after {
+  position: absolute;
+  content: "";
+  width: 25px;
+  height: 2px;
+  background: #000;
+}
+
+.item__remove-icon:before {
+  transform: rotate(45deg);
+}
+.item__remove-icon:after {
+  transform: rotate(-45deg);
+}
+.add-item {
+  margin-top: 20px;
+}
+.add-item input {
+  height: 30px;
+  padding-left: 10px;
+  display: block;
+  width: 300px;
+}
+
+.add-item button {
+  width: 160px;
+  height: 40px;
+  margin-top: 13px;
+  display: block;
+}
