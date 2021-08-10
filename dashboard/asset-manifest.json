@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0738e859.chunk.css",
+    "main.js": "/static/js/main.a3ccb5ab.chunk.js",
+    "main.js.map": "/static/js/main.a3ccb5ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b89de3f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b89de3f.js.map",
+    "static/js/2.c4131382.chunk.js": "/static/js/2.c4131382.chunk.js",
+    "static/js/2.c4131382.chunk.js.map": "/static/js/2.c4131382.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0738e859.chunk.css.map": "/static/css/main.0738e859.chunk.css.map",
+    "static/js/2.c4131382.chunk.js.LICENSE.txt": "/static/js/2.c4131382.chunk.js.LICENSE.txt",
+    "static/media/style.min.css": "/static/media/warning.1125c738.svg",
+    "static/media/accaunt-cont-ava.f09f5b52.svg": "/static/media/accaunt-cont-ava.f09f5b52.svg",
+    "static/media/account-start-1.1b949430.svg": "/static/media/account-start-1.1b949430.svg",
+    "static/media/cancel-table.536cf1ad.svg": "/static/media/cancel-table.536cf1ad.svg",
+    "static/media/edit-table.48c1b9d6.svg": "/static/media/edit-table.48c1b9d6.svg",
+    "static/media/header-logo.6458f9a1.svg": "/static/media/header-logo.6458f9a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b89de3f.js",
+    "static/js/2.c4131382.chunk.js",
+    "static/css/main.0738e859.chunk.css",
+    "static/js/main.a3ccb5ab.chunk.js"
+  ]
+}
