@@ -1,0 +1,25 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.login-btn{
+    margin: 20px;
+}
+
+input.yellow-input {
+    color: #fff;
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+    transition: all .5s;
+}
+
+input.yellow-input + label {
+    color: #fff !important;
+    transition: all .5s;
+}
+input.yellow-input:focus + label {
+    color: yellow !important;
+}
+
+input.yellow-input:focus {
+    border-bottom: 1px solid yellow !important;
+    box-shadow: 0 1px 0 0 yellow !important;
+}
